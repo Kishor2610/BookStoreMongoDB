@@ -1,0 +1,6 @@
+Start Atlas MongoDB
+Postman
+Go in backend choose config.js and add url of mongo db connect.
+npm i for both backend and frontend 
+
+https://cloud.mongodb.com/v2/65c4b3e8ab035f27735798de#/metrics/replicaSet/65c4b4abe11fff18e43ddaba/explorer/test/books/find 
